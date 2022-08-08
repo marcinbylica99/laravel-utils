@@ -1,5 +1,5 @@
 {
-  "name": "goldplace/laravel-utils",
+  "name": "marcinbylica99/laravel-utils",
   "description": "This package includes some boosts to speed up common Laravel +5.8 tasks",
   "require": {
     "php": "^7.2.5|^8.0",
