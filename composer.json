@@ -1,9 +1,9 @@
 {
   "name": "goldplace/laravel-utils",
-  "description": "This package includes some boosts to speed up common Laravel +5.8 tasks",
+  "description": "This package includes some boosts to speed up common Laravel tasks",
   "require": {
-    "php": "^7.2.5|^8.0",
-    "laravel/framework": "^5.8|^6.0|^7.0|^8.0"
+    "php": "^8.2",
+    "illuminate/support": "^10.0|^11.0|^12.0"
   },
   "extra": {
     "laravel": {
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "PDAit\\Base\\": "base\\"
+      "PDAit\\Base\\": "base/"
     }
   }
 }
